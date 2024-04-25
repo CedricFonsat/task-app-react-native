@@ -1,6 +1,6 @@
 # Task App in React Native - PlayGround #1
 
-Befit is an application where you can coach yourself and is a cross platform application built in [reactnative](https://reactnative.dev/).
+Minimalist Mobile App Task with React Native & Redux (clean code) and is a cross platform application built in [reactnative](https://reactnative.dev/).
 
 ## Project Structure
 
